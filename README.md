@@ -1,7 +1,7 @@
 # [NOME DO PROJETO AQUI]
 
 ## 1. Integrantes
-* Integrante 1 (Nome e Link do GitHub)
+* Jônatas Vieira (https://github.com/jonatasssv)
 * Integrante 2 (Nome e Link do GitHub)
 * Integrante 3 (Nome e Link do GitHub)
 
