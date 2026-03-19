@@ -6,8 +6,7 @@
 * Integrante 3 (Nome e Link do GitHub)
 
 ## 2. Objetivo da Análise
-Escreva aqui o contexto. 
-*Exemplo: "Este projeto visa analisar a variação de preços de produtos básicos em diferentes redes de supermercados para identificar oportunidades de economia."*
+O objetivo desta análise é explorar a capacidade de geração de energia mundial, comparando a presença de fontes renováveis versus combustíveis fósseis, permitindo visualizar quais regiões lideram a transição para energias limpas.
 
 ## 3. Base de Dados
 * **Fonte:** (Ex: Extração via Selenium de sites X e Y / Dataset do Kaggle / Planilha enviada pelo professor)
