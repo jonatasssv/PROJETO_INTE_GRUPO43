@@ -15,7 +15,7 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 ## 4. Planejamento de Tarefas e Cronograma
 | Tarefa | Responsável | Prazo | Status |
 | :--- | :--- | :--- | :--- |
-| Estrutura do Git | [Seu Nome] | 15/03 | Concluído |
+| Estrutura do Git | Jônatas Vieira | 19/03 | Concluído |
 | Extração de Dados | Integrante X | 22/03 | Em andamento |
 | Limpeza (Pandas) | Integrante Y | 29/03 | Pendente |
 | Dashboard | Integrante Z | 05/04 | Pendente |
