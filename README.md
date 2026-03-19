@@ -16,7 +16,7 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 | Tarefa | Responsável | Prazo | Status |
 | :--- | :--- | :--- | :--- |
 | Estrutura do Git | Jônatas Vieira | 19/03 | Concluído |
-| Extração de Dados | Integrante X | 22/03 | Em andamento |
+| Extração de Dados | Jônatas Vieira | 19/03 | Concluído |
 | Limpeza (Pandas) | Integrante Y | 29/03 | Pendente |
 | Dashboard | Integrante Z | 05/04 | Pendente |
 
