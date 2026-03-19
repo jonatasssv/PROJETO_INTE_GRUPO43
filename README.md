@@ -10,7 +10,7 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 
 ## 3. Base de Dados
 * **Fonte:** Global Power Plant Database - Kaggle
-* **Descrição:** Breve resumo do que contém os dados (colunas principais, período, etc).
+* **Descrição:** Este conjunto de dados contém informações sobre aproximadamente 35.000 usinas de energia em 167 países. Ele inclui dados sobre a localização (latitude/longitude), tipo de combustível utilizado (Fuel Type), capacidade de geração em Megawatts (MW) e o histórico de produção
 
 ## 4. Planejamento de Tarefas e Cronograma
 | Tarefa | Responsável | Prazo | Status |
