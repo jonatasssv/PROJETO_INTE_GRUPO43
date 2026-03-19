@@ -1,4 +1,4 @@
-# [NOME DO PROJETO AQUI]
+# Energia Global
 
 ## 1. Integrantes
 * Jônatas Vieira (https://github.com/jonatasssv)
