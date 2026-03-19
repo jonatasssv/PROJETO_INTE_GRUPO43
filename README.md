@@ -9,7 +9,7 @@
 O objetivo desta análise é explorar a capacidade de geração de energia mundial, comparando a presença de fontes renováveis versus combustíveis fósseis, permitindo visualizar quais regiões lideram a transição para energias limpas.
 
 ## 3. Base de Dados
-* **Fonte:** (Ex: Extração via Selenium de sites X e Y / Dataset do Kaggle / Planilha enviada pelo professor)
+* **Fonte:** Global Power Plant Database - Kaggle
 * **Descrição:** Breve resumo do que contém os dados (colunas principais, período, etc).
 
 ## 4. Planejamento de Tarefas e Cronograma
