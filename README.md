@@ -24,9 +24,9 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 Descreva o que vocês vão fazer com os dados brutos:
 * Limpeza de valores nulos.
 * Tratamento de Nulos: Decidir o que fazer com usinas que não têm o valor de geração de energia preenchido.
-* Cálculo de médias e variações percentuais.
+* Cálculo de médias.
 
 ## 6. Ideia Inicial do Dashboard
 * **Métricas:** Preço médio, menor preço encontrado, inflação por categoria.
 * **Visualizações:** Gráfico de barras comparativo, linha do tempo de preços, filtros por marca ou região.
-* **Mapa Mundial: Mostrando a localização das usinas por cores
+* **Mapa Mundial:** Mostrando a localização das usinas
