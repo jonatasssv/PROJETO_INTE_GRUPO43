@@ -30,3 +30,4 @@ Descreva o que vocês vão fazer com os dados brutos:
 * **Métricas:** Preço médio, menor preço encontrado, inflação por categoria.
 * **Visualizações:** Gráfico de barras comparativo, linha do tempo de preços, filtros por marca ou região.
 * **Mapa Mundial:** Mostrando a localização das usinas
+* **Ferramentas:** Python, Streamlit, Pandas
