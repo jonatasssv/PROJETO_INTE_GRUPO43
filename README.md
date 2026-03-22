@@ -2,7 +2,7 @@
 
 ## 1. Integrantes
 * Jônatas Vieira (https://github.com/jonatasssv)
-* Integrante 2 (Nome e Link do GitHub)
+* Igor martins Lima (https://github.com/igor8472)
 * Integrante 3 (Nome e Link do GitHub)
 
 ## 2. Objetivo da Análise
@@ -17,7 +17,7 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 | :--- | :--- | :--- | :--- |
 | Estrutura do Git | Jônatas Vieira | 19/03 | Concluído |
 | Extração de Dados | Jônatas Vieira | 19/03 | Concluído |
-| Limpeza (Pandas) | Integrante Y | 29/03 | Pendente |
+| Limpeza (Pandas) | Igor Lima | 22/03 | Pendente |
 | Dashboard | Integrante Z | 05/04 | Pendente |
 
 ## 5. Transformações Pretendidas
