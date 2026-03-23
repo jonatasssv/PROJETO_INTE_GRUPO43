@@ -18,8 +18,8 @@ O objetivo desta análise é explorar a capacidade de geração de energia mundi
 | :--- | :--- | :--- | :--- |
 | Estrutura do Git | Jônatas Vieira | 19/03 | Concluído |
 | Extração de Dados | Jônatas Vieira | 19/03 | Concluído |
-| Limpeza (Pandas) | Igor Lima | 22/03 | Pendente |
-| Dashboard | Integrante Z | 05/04 | Pendente |
+| Limpeza (Pandas) | Igor Lima/Antônio | 22/03 | Pendente |
+| Dashboard | Leonardo | 05/04 | Pendente |
 
 ## 5. Transformações Pretendidas
 Descreva o que vocês vão fazer com os dados brutos:
