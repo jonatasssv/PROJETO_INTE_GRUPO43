@@ -4,6 +4,7 @@
 * Jônatas Vieira (https://github.com/jonatasssv)
 * Igor martins Lima (https://github.com/igor8472)
 * Antônio Dorneles (https://github.com/Antonio-Dorneles)
+* Leonardo Munir (https://github.com/LMunir)
 
 ## 2. Objetivo da Análise
 O objetivo desta análise é explorar a capacidade de geração de energia mundial, comparando a presença de fontes renováveis versus combustíveis fósseis, permitindo visualizar quais regiões lideram a transição para energias limpas.
