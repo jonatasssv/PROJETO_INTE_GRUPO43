@@ -1,0 +1,101 @@
+﻿Pais,Nome_da_Usina,Capacidade_MW,Latitude,Longitude,Tipo_de_Combustivel,Proprietario
+Afghanistan,Kajaki Hydroelectric Power Plant Afghanistan,33.0,32.322,65.119,Hidrica,
+Afghanistan,Kandahar DOG,10.0,31.67,65.795,Solar,
+Afghanistan,Kandahar JOL,10.0,31.623,65.792,Solar,
+Afghanistan,Mahipar Hydroelectric Power Plant Afghanistan,66.0,34.556,69.4787,Hidrica,
+Afghanistan,Naghlu Dam Hydroelectric Power Plant Afghanistan,100.0,34.641,69.717,Hidrica,
+Afghanistan,Nangarhar (Darunta) Hydroelectric Power Plant Afghanistan,11.55,34.4847,70.3633,Hidrica,
+Afghanistan,Northwest Kabul Power Plant Afghanistan,42.0,34.5638,69.1134,Gas Natural,
+Afghanistan,Pul-e-Khumri Hydroelectric Power Plant Afghanistan,6.0,35.9416,68.71,Hidrica,
+Afghanistan,Sarobi Dam Hydroelectric Power Plant Afghanistan,22.0,34.5865,69.7757,Hidrica,
+Albania,Bistrica 1,27.0,39.9116,20.1047,Hidrica,
+Albania,Fierza,500.0,42.2514,20.0431,Hidrica,
+Albania,Koman,600.0,42.1033,19.8224,Hidrica,
+Albania,Lanabregas,5.0,41.3428,19.8964,Hidrica,
+Albania,Shkopet,24.0,41.6796,19.8305,Hidrica,
+Albania,Ulez,25.0,41.6796,19.8936,Hidrica,
+Albania,Vau i Dijes,250.0,42.0137,19.6359,Hidrica,
+Albania,Vlora,98.0,40.4874,19.434,Other,
+Algeria,Adrar,20.0,27.908,-0.317,Solar,
+Algeria,Ain Azel,20.0,35.88,5.475,Solar,
+Algeria,Ain Djasser,520.0,35.8665,6.0262,Gas Natural,SociÃ©te AlgÃ©rienne de Production de l\'ElectricitÃ©
+Algeria,Ain Sekhouna,20.0,34.532,0.804,Solar,
+Algeria,Ain el Ibel I,20.0,34.346,3.164,Solar,
+Algeria,Ain el Ibel II,53.0,34.342,3.169,Solar,
+Algeria,Ain el Melh,20.0,34.861,4.204,Solar,
+Algeria,Algerie Sud-Ouest,43.5,27.908,-0.317,Solar,
+Algeria,Annaba,71.0,36.8924,7.7634,Gas Natural,SociÃ©tÃ© AlgÃ©rienne de Production de lâ€™ElectricitÃ© (SPE)
+Algeria,Aoulef,5.0,26.9989,1.3351,Solar,
+Algeria,Arbaa,560.0,36.5988,3.1375,Gas Natural,Sonelgaz
+Algeria,Bir Rebaa,10.0,31.285,8.565,Solar,
+Algeria,Boufarik 1,100.0,36.5914,2.9223,Gas Natural,
+Algeria,Boufarik 2,450.0,36.596,2.878,Gas Natural,
+Algeria,Boutelilis,450.0,35.5658,-0.9386,Gas Natural,
+Algeria,Chelghoum El Aïd,15.0,36.225,6.11,Solar,
+Algeria,El Kheneg,60.0,33.727,2.811,Solar,
+Algeria,F'Krina,292.0,35.7666,7.3619,Gas Natural,Sonelgaz Production de lâ€™Electricite
+Algeria,HPC Ouargla,30.0,32.602,5.834,Solar,
+Algeria,Hadjret Ennous,1200.0,36.5767,2.0797,Gas Natural,Sharikat Kahraba Hadjret En-Nouss
+Algeria,Hamma 2,418.0,36.7489,3.0823,Gas Natural,Sonelgaz Production de lâ€™Electricite
+Algeria,Hassi Messaoud Mobile,72.0,31.6703,6.0531,Gas Natural,Sonelgaz Production de l'Electricite
+Algeria,Hassi Messoud,600.0,31.6703,6.0531,Gas Natural,Sonelgaz Production de l'Electricite
+Algeria,Hassi Messoud Nord 2,200.0,31.7877,6.0517,Gas Natural,Sonelgaz Production de l'Electricite
+Algeria,Hassi Messoud Ouest,492.0,31.8065,5.9924,Gas Natural,Sonelgaz Production de l'Electricite
+Algeria,Hassi R'mel ISCC,20.0,33.123,3.356,Solar,
+Algeria,Hauts Plateaux Centre,106.6,34.342,3.169,Solar,
+Algeria,Hauts Plateaux Est,73.8,35.68,5.9861,Solar,
+Algeria,Ighil Emda,24.0,36.4739,5.2719,Hidrica,SAFEAGE
+Algeria,In Salah,5.0,27.183,2.504,Solar,
+Algeria,Jijel,588.0,36.8139,5.876,Gas Natural,
+Algeria,Kahrama IPP,345.0,35.8064,-0.2476,Gas Natural,
+Algeria,Koudiet Eddraouch,1200.0,36.885,8.0778,Gas Natural,Shariket Karhaba Koudiet Eddraouch SpA (SKD)
+Algeria,Labiodh Sidi Cheikh,20.0,32.945,0.555,Solar,
+Algeria,Labreg,396.0,34.5056,6.9848,Gas Natural,
+Algeria,Marsat,840.0,35.8,-0.1924,Gas Natural,
+Algeria,Marsat TG,184.0,35.8,-0.1924,Gas Natural,Sonelgaz Production de lâ€™Electricite
+Algeria,Msila 1,980.0,35.7071,4.4804,Gas Natural,Sonelgaz Production de lâ€™Electricite
+Algeria,Naâma,19.9,33.274,-0.372,Solar,
+Algeria,Oued El Kebrit,15.0,35.919,7.87,Solar,
+Algeria,Oued el Ma,20.0,35.68,5.9861,Solar,
+Algeria,Ras Djinet,672.0,36.8509,3.6983,Gas Natural,
+Algeria,Ras el Oued,20.0,36.01,5.035,Solar,
+Algeria,Ravin Blanc,73.0,35.7095,-0.6319,Gas Natural,
+Algeria,Reggane,5.0,26.768,0.137,Solar,
+Algeria,Relizane,465.0,35.7835,0.5407,Gas Natural,SociÃ©tÃ© AlgÃ©rienne de Production de lâ€™ElectricitÃ© (SPE)
+Algeria,SKB IPP,484.0,36.1399,2.9296,Gas Natural,Sonelgaz Production de l'Electricite
+Algeria,SKS IPP SNC Lavalin,815.0,36.8789,6.9366,Gas Natural,Sharikat Kahraba Skikda (SKS - Skikda Power Co.)  SNC-Lavalin
+Algeria,SPP1 Thermal,150.0,32.9475,3.238,Gas Natural,Developed by SPP1  an Abener and New Energy Algeria (NEAL) a joint venture (between Sonatrach Sonelgaz and SIM)
+Algeria,Skikda,262.0,36.88,6.935,Gas Natural,
+Algeria,Tamanrasset,13.0,22.849,5.45,Solar,
+Algeria,Terga,1200.0,35.4608,-1.2295,Gas Natural,Shariket Kahraba Terga JSC
+Algeria,Tiaret,300.0,35.3396,1.3562,Gas Natural,
+Algeria,Tilghemt 1,200.0,33.1319,3.348,Gas Natural,SociÃ©tÃ© AlgÃ©rienne de Production de lâ€™ElectricitÃ© (SPE)
+Algeria,Tilghemt 2,600.0,33.1377,3.3678,Gas Natural,
+Algeria,Timimoun,9.0,29.22,0.223,Solar,
+Algeria,Tindouf,9.0,27.752,-8.154,Solar,
+Algeria,Télagh,12.0,34.692,-0.601,Solar,
+Algeria,Zaouiet Kounta,6.0,27.241,-0.174,Solar,
+Angola,Biopio,22.8,-12.4706,13.7319,Petroleo,
+Angola,Biopio (hydro),14.6,-12.4706,13.7319,Hidrica,
+Angola,Cambambe,180.0,-9.7523,14.4809,Hidrica,
+Angola,Capanda,520.0,-9.7955,15.4672,Hidrica,
+Angola,Cazenga,132.0,-8.8383,13.2344,Gas Natural,
+Angola,Huambo,16.26,-12.76,15.75,Petroleo,
+Angola,Lobito,20.0,-12.37,13.57,Gas Natural,
+Angola,Luanda Diesel,58.0,-8.8383,13.2344,Petroleo,
+Angola,Luanda Refinery,18.5,-8.8383,13.2344,Petroleo,
+Angola,Malongo,10.0,-5.55,12.2,Petroleo,
+Angola,Matala,40.0,-14.7333,15.0333,Hidrica,
+Angola,Namibe,11.68,-15.1961,12.1522,Gas Natural,
+Angola,Rio Luachimo,16.0,-7.3,20.85,Hidrica,
+Angola,Xitoto,11.34,-15.3333,15.0,Petroleo,
+Antarctica,McMurdo Station Generator,6.6,-77.847,166.6605,Petroleo,
+Antarctica,Ross Island,1.0,-77.8428,166.7271,Eolica,Meridian Energy
+Argentina,AGUA DEL CAJON (AUTOGENERADOR DEL MEM),479.2,-38.9368,-68.3556,Other,CAPEX SA
+Argentina,AGUA DEL CAJON (GENERADOR DEL MEM),192.0,-38.9368,-68.3556,Gas Natural,CAPEX SA
+Argentina,AGUA DEL TORO,130.0,-34.5792,-68.9892,Hidrica,HIDISA
+Argentina,ALICURA,1050.0,-40.58,-70.7489,Hidrica,AES ARGENTINA GENERACION S.A.
+Argentina,ALMIRANTE BROWN,25.0,-34.8386,-58.4033,Petroleo,C.T. ALMIRANTE BROWN SA
+Argentina,ALTO VALLE,97.5,-38.9524,-68.0218,Gas Natural,CT ALTO VALLE SA
+Argentina,ALUMINE,1.904,-39.2145,-70.9157,Petroleo,EPEN
+Argentina,ALVAREZ CONDARCO,50.7,-33.0452,-69.0516,Hidrica,CEMPPSA - HIDROCUYO SA
