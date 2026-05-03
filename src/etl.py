@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('../global_power_plant_database.csv',low_memory = False)
+df = pd.read_csv('../data/global_power_plant_database.csv', low_memory = False)
 
 # 2. Criada uma lista de traduções
 traducoes = {
@@ -40,3 +40,4 @@ print(f"Sucesso! O arquivo agora tem {df_tratado.shape[0]} linhas prontas para o
 
 # Cria uma amostra pequena para visualização rápida no Excel
 df_tratado.head(100).to_csv('../data/amostra_usinas.csv', index=False, encoding='utf-8-sig')
+
