@@ -34,3 +34,6 @@ df_tratado['Tipo_de_Combustivel'] = df_tratado['Tipo_de_Combustivel'].map(dicion
 df_tratado.to_csv('usinas_limpas_faculdade.csv', index=False, encoding='utf-8-sig')
 
 print(f"Sucesso! O arquivo agora tem {df_tratado.shape[0]} linhas prontas para o Power BI.")
+
+# Cria uma amostra pequena para visualização rápida no Excel
+df_tratado.head(100).to_csv('../data/amostra_usinas.csv', index=False, encoding='utf-8-sig')
